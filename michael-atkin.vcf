@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Atkin;Michael;;;
+FN:Michael Atkin
+ORG:NFFO Ltd & NFFO Services Ltd
+TITLE:Finance Officer
+TEL;TYPE=WORK,VOICE:+441904635428
+TEL;TYPE=CELL,VOICE:+447887645393
+TEL;TYPE=WORK,VOICE:+441904635430
+EMAIL;TYPE=INTERNET,WORK:michael@nffo.org.uk
+URL:https://www.nffoservices.com/
+ADR;TYPE=WORK:;;30 Monkgate;York;;YO31 7PF;United Kingdom
+END:VCARD
